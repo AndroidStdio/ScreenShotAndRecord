@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenShotAndRecord</string>
+    <string name="kitKatScreenShot">4.4截图</string>
+    <string name="lollipopScreenShot">5.0截图</string>
+    <string name="play">播放视频</string>
+
+</resources>

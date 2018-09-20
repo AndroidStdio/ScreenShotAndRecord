@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9444fcd1c0dd956e207cd8f83749414d666715c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\812b5b8bb7e1d765356b676d99a373fa547b9999\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\pre-dexed\debug\classes_745e1d8246b9a00bbf951317af6d0509c174fc3b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="99acd757b98db72be3c2ce4353e7622d9c586363">
+        <dex dex="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e244b37d6b1635093bb1e46357e5159386e0c26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_effad51e1b924a983cf91438469a33332a23c034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\20888fac6050f4b97cfe4654ef64f493b346e34d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Administrator\Desktop\ScreenRecorder-master\ScreenShotAndRecord\app\build\intermediates\pre-dexed\debug\classes_09aead33c7194122515baa86b515184f150363fc.jar" />
+    </item>
+
+</items>
